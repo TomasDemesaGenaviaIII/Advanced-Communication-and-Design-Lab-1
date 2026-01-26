@@ -2,6 +2,6 @@
 
 ---
 
-#Experiment 1 Setting up on Oscilloscope
+# Experiment 1 Setting up on Oscilloscope
 
 ## INTRODUCTION
