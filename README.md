@@ -60,6 +60,8 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
       4. Verified that a stable square wave appeared on the display, confirming the scope was ready for measurement.
 
   ## DISCUSSION AND LEARNING
+
+To set up an oscilloscope for use with the Emona Telecoms-Trainer 101, you must first establish a common reference by inserting the black ground plugs of the oscilloscope leads into any available ground (GND) socket on the trainer board. For initial signal verification, connect the first channel of the scope to a known source, such as the 2kHz SINE output in the Master Signals module, and ensure the Trigger Source is set to CH1 (or INT) to stabilize the display. Begin with the scope's Mode control on CH1 and adjust the Timebase until two or three complete cycles of the waveform are clearly visible on the screen.
     
      
 
