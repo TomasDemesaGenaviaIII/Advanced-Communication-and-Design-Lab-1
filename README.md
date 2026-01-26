@@ -58,6 +58,8 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
       2. Adjusted the Intensity and Focus controls to ensure the trace was sharp and at an appropriate brightness.
       3. Connected the Channel 1 input to the scope's CAL output using the oscilloscope lead.
       4. Verified that a stable square wave appeared on the display, confirming the scope was ready for measurement.
+
+  ## DISCUSSION AND LEARNING
     
      
 
