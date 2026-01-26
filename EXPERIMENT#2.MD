@@ -102,6 +102,6 @@ TABLE 1.1 - Master Signals Measurements
       | 2 kHz SINE | 7.40 A | 480.5 us | 2.081 kHZ |
       | 100 kHz COS | 7.51 A | 10.00 us | 99.98 kHZ|
       | 100 kHz SINE | 7.32 A | 9.97 us | 100. 2 kHZ|
-      
+
 
 
