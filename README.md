@@ -26,7 +26,7 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 <img width="331" height="305" alt="image" src="https://github.com/user-attachments/assets/e3b1370b-47fb-4b6a-ae95-dbaae0019fb1" />
 
 ## PROCEDURES
-  General Controls:
+  >General Controls:
   
     1. Set the Intensity control to about three-quarters of its travel.
     2. Set the Mode control to the CH1 (or CHA) position.
