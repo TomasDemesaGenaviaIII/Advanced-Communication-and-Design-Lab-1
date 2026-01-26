@@ -97,6 +97,8 @@ Utilizing block diagrams and hands-on measurements, the Emona Telecoms-Trainer 1
 ### RESULTS AND DATA
 
 TABLE 1.1 - Master Signals Measurements
+
+
                   | Signal Output | Vpp (V) | Period (s) | Frequency (Hz) |
                   |---|---:|---:|---:|
                   | 2 kHz SINE | 7.40 A | 480.5 us | 2.081 kHZ |
