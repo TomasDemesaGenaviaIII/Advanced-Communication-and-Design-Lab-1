@@ -16,5 +16,20 @@ Utilizing block diagrams and hands-on measurements, the Emona Telecoms-Trainer 1
 4. Patch leads (banana/patch cords as provided by Emona kit)
 5. Headphones (stereo) — for Buffer/Speech section AH
 
-## CONCEPTS
+## PROCEDURES
+
+1.  Master Signals, Speech and Buffer Modules
+
+      A. Master Signals: Amplitude, Period, Frequency
+          1. Set up the oscilloscope (Trigger Source = Ch.1 or INT; Mode = Ch.1).
+          2. Connect the Master Signals 2 kHz SINE output to the oscilloscope (Ch.1).
+          3. Adjust timebase to view ~2 cycles clearly.
+          4. Measure and record:
+        Output voltage (peak-to-peak)
+           - Period
+           - Frequency (calculate using ( f = 1/T ))
+           - Output voltage (peak-to-peak)
+        Repeat for:
+           - 100 kHz SINE
+           - 100 kHz COS
 
