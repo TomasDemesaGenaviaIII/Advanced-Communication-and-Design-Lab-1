@@ -27,6 +27,7 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 
 ## PROCEDURES
   General Controls:
+  
     Set the Intensity control to about three-quarters of its travel.
      
 
