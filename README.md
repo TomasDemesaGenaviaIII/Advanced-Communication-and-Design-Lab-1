@@ -26,25 +26,25 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 <img width="331" height="305" alt="image" src="https://github.com/user-attachments/assets/e3b1370b-47fb-4b6a-ae95-dbaae0019fb1" />
 
 ## PROCEDURES
-  >General Controls:
+  > 1. General Controls:
   
     1. Set the Intensity control to about three-quarters of its travel.
     2. Set the Mode control to the CH1 (or CHA) position.
 
-  Vertical Controls:
+  > 2. Vertical Controls:
 
     1. Set the Input Coupling control for both channels to the AC position.
     2. Set the Vertical Attenuation control for both channels to the 1V/div position.
     3. Set the Vertical Attenuation Calibration control for both channels to the detent (locked) position.
     4. Set the Vertical Position control for both channels to about the middle of their travel.
 
-   Horizontal Controls:
+   > 3. Horizontal Controls:
 
      1. Set the Horizontal Timebase control to the 0.5ms/div position.
      2. Set the Horizontal Timebase Calibration control to the detent (locked) position.
      3. Set the Horizontal Position control to about the middle of its travel.
 
-  Triggering Controls:
+  > 4. Triggering Controls:
 
       1. Set the Sweep Mode control to the AUTO position.
       2. Set the Trigger Level control to the detent (locked) position (or middle of travel).
@@ -52,7 +52,7 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
       4. Set the Trigger Source Coupling control to the AC position.
       4. Set the Slope (or Sync) control to the "+" position.
 
-  Powering Up and Testing:
+  > 5. Powering Up and Testing:
 
       1. Switched on the scope and allowed it to warm up for approximately 30 seconds until a trace appeared.
       2. Adjusted the Intensity and Focus controls to ensure the trace was sharp and at an appropriate brightness.
