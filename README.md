@@ -12,5 +12,5 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 <img width="2050" height="1701" alt="image" src="https://github.com/user-attachments/assets/0d7252f2-4c7d-400b-8d10-afdd5e89e90c" />
 
 
-## OBJECYIVES
-To understand the visual representation of voltage (amplitude) and time (period/frequency) on a display.
+## OBJECTIVES
+1. To understand the visual representation of voltage (amplitude) and time (period/frequency) on a display.
