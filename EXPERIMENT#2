@@ -32,4 +32,76 @@ Utilizing block diagrams and hands-on measurements, the Emona Telecoms-Trainer 1
         Repeat for:
            - 100 kHz SINE
            - 100 kHz COS
+       B. Phase Difference: 100 kHz SINE vs 100 kHz COS
+          1. Connect 100 kHz SINE to Ch.1 and 100 kHz COS to Ch.2.
+          2. Set oscilloscope Mode to DUAL.
+          3. Align both traces at midline (use vertical position).
+          4. Measure:
+                  - Period (one full cycle in divisions)
+                  - Horizontal “difference” between waveforms (divisions)
+          5. Compute phase difference: [ \phi = difference/period*360^\circ ]
+       C. Speech Module Observation
+          1. Set oscilloscope Mode to Ch.1 and timebase to around 2 ms/div.
+          2. Connect Speech module output to Ch.1.
+          3. Speak into the microphone (“one”, “two”, hum, whistle).
+          4. Observe waveform shape changes and record qualitative observations.
+       D. Buffer Module Test (Headphones)
+          1. Turn Buffer Gain fully anti-clockwise.
+          2. Plug headphones into Buffer module.
+          3. Slowly increase Gain and listen.
+          4. Test listening using:
+            - Master Signals 2 kHz SINE (audible)
+            - Speech output (audible speech waveform)
+            - Master Signals 100 kHz SINE (inaudible)
+
+ 2. Adder and Phase Shifter Modules
+       A. Adder Module: Gain Control and Output
+          1. Set Adder input B gain fully anti-clockwise (as specified).
+          2. Set Adder input A gain to mid position.
+          3. Connect Master Signals 2 kHz SINE to Input A, connect Adder output to Ch.2.
+          4. Set oscilloscope Mode to DUAL (Ch.1 = input reference, Ch.2 = output).
+          5. Vary Adder gain control and observe amplitude changes.
+          6. Measure and record gain for:
+            - Input A at max and min gain settings
+            - Input B at max and min gain settings
+          7. Connect 2 kHz SINE to both inputs and measure new output (summing effect).
+       B. Phase Shifter Module: Lead/Lag and Range
+          1. Set Phase Change control to 0° position and Phase Adjust to mid.
+          2. Connect Master Signals 2 kHz SINE to Phase Shifter input.
+          3. Observe input (Ch.1) vs output (Ch.2) in DUAL mode.
+          4. Turn Phase Adjust and observe phase shift.
+          5. Set Phase Change to 180° and repeat.
+          6. Determine if output can:
+            - always lead
+            - always lag
+            - lead or lag depending on setting
+          7. Determine if phase shifting up to 360° is possible.
+  3. VCO Module
+       A. VCO Basic Output Measurements
+          1. Set oscilloscope: Trigger Source = Ch.1; Mode = Ch.1.
+          2. Set VCO Gain and Frequency Adjust to mid.
+          3. Set Range to LO.
+          4. Connect VCO SINE output to Ch.1.
+          5. Measure output Vpp and record (Table 1).
+          6. Turn Frequency Adjust fully anti-clockwise and record minimum frequency.
+          7. Turn Frequency Adjust fully clockwise and record maximum frequency.
+          8. Switch Range to HI and repeat min/max frequency measurements (Table 2).
+       B. Variable DCV → VCO Frequency Control
+          1. Set Variable DCV control to mid.
+          2. Connect Variable DCV output to VCO input (VCO INPUT).
+          3. Observe VCO output while turning VDC clockwise and anti-clockwise.
+          4. Record how control voltage affects VCO frequency.
+
+----------
+
+## RESULTS AND DATA
+
+TABLE 1.1 - Master Signals Measurements
+      | Signal Output | Vpp (V) | Period (s) | Frequency (Hz) |
+      |---|---:|---:|---:|
+      | 2 kHz SINE | 7.40 A | 480.5 us | 2.081 kHZ |
+      | 100 kHz COS | 7.51 A | 10.00 us | 99.98 kHZ|
+      | 100 kHz SINE | 7.32 A | 9.97 us | 100. 2 kHZ|
+      
+
 
