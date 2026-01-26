@@ -17,3 +17,7 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 2. To measure the **peak-to-peak voltage** of the oscilloscope’s CAL signal.
 3.  To practice proper oscilloscope handling (intensity, focus, triggering, coupling).
 4.  To identify and correctly adjust general, vertical, horizontal, and triggering controls.
+
+## MATERIALS
+1. EMONA BISKIT
+2. OSCILLOSCOP
