@@ -15,8 +15,8 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 ## OBJECTIVES
 1. To understand the visual representation of voltage (amplitude) and time (period/frequency) on a display.
 2. To measure the **peak-to-peak voltage** of the oscilloscope’s CAL signal.
-3.  To practice proper oscilloscope handling (intensity, focus, triggering, coupling).
-4.  To identify and correctly adjust general, vertical, horizontal, and triggering controls.
+3. To practice proper oscilloscope handling (intensity, focus, triggering, coupling).
+4. To identify and correctly adjust general, vertical, horizontal, and triggering controls.
 
 ## MATERIALS
 1. EMONA BISKIT
@@ -68,6 +68,25 @@ To set up an oscilloscope for use with the Emona Telecoms-Trainer 101, you must 
 ## Experiment 2 An introduction to the Telecoms-Trainer 101
 
 Utilizing block diagrams and hands-on measurements, the Emona Telecoms-Trainer 101 is a modular training platform that teaches the fundamental building blocks of analog communication systems. Signals are generated, amplified, added, phase-shifted, and controlled in frequency in real communication systems according to the application.
+
+
+## OBJECTIVES
+1. Familiarize with the Telecoms-Trainer 101 analog modules and their functions.
+2. Measure the phase difference between sine and cosine signals using an oscilloscope method.
+3. Demonstrate the Buffer module as an amplifier/driver for different signal sources (sine, speech).
+4. Investigate how the Adder module gain controls affect output amplitude.
+
+## MATERIALS
+1. Emona Telecoms-Trainer 101 (with power pack)
+2. Dual-channel oscilloscope (≥ 20 MHz recommended)
+3. Two oscilloscope probes/leads (Ch.1 and Ch.2)
+4. Patch leads (banana/patch cords as provided by Emona kit)
+5. Headphones (stereo) — for Buffer/Speech section
+
+## CONCEPTS
+
+
+   
 
 
     
