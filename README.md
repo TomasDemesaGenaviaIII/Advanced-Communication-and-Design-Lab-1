@@ -21,3 +21,12 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 ## MATERIALS
 1. EMONA BISKIT
 2. OSCILLOSCOP
+
+## CIRCUIT DIAGRAM
+<img width="331" height="305" alt="image" src="https://github.com/user-attachments/assets/e3b1370b-47fb-4b6a-ae95-dbaae0019fb1" />
+
+## PROCEDURES
+  General Controls:
+    Set the Intensity control to about three-quarters of its travel.
+     
+
