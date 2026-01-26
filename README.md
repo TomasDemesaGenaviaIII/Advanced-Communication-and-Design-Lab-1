@@ -67,6 +67,8 @@ To set up an oscilloscope for use with the Emona Telecoms-Trainer 101, you must 
 
 ## Experiment 2 An introduction to the Telecoms-Trainer 101
 
+Utilizing block diagrams and hands-on measurements, the Emona Telecoms-Trainer 101 is a modular training platform that teaches the fundamental building blocks of analog communication systems. Signals are generated, amplified, added, phase-shifted, and controlled in frequency in real communication systems according to the application.
+
 
     
      
