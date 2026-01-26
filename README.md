@@ -28,6 +28,15 @@ The Emona Telecomms Trainer 101 is a specialized training platform designed for 
 ## PROCEDURES
   General Controls:
   
-    Set the Intensity control to about three-quarters of its travel.
+    1. Set the Intensity control to about three-quarters of its travel.
+    2. Set the Mode control to the CH1 (or CHA) position.
+
+  Vertical Controls:
+
+    1. Set the Input Coupling control for both channels to the AC position.
+    2. Set the Vertical Attenuation control for both channels to the 1V/div position.
+    3. Set the Vertical Attenuation Calibration control for both channels to the detent (locked) position.
+    4. Set the Vertical Position control for both channels to about the middle of their travel.
+    
      
 
