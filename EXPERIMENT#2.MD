@@ -106,10 +106,11 @@ TABLE 1 - Master Signals Measurements
         
 
 ## 2KHz SINE
-
+<img width="327" height="244" alt="Image" src="https://github.com/user-attachments/assets/3ba9ab54-d917-46c9-bd78-242ec77f392a" />
 ## 100KHz SINE
-
+<img width="434" height="300" alt="Image" src="https://github.com/user-attachments/assets/794b733c-91a2-4a38-b329-0b76546a6d7d" /> 
 ## 100KHz COSINE
+<img width="305" height="247" alt="Image" src="https://github.com/user-attachments/assets/0970f03b-4dab-4f21-8f49-5f47df6b84b3" />
 
 
 
