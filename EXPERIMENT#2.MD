@@ -114,6 +114,10 @@ TABLE 1 - Master Signals Measurements
 ## 100KHz COSINE
 <img width="327" height="244" alt="Image" src="https://github.com/user-attachments/assets/0970f03b-4dab-4f21-8f49-5f47df6b84b3" />
 
+OBSERVATION
+      The Master Signal s module provides stable reference signals. The 2 kHz sine wave is audible and easy to display on the oscilloscope. The 100 kHz signals require a faster timebase and proper triggering due to higher frequency. Frequency values were computed using \( f = 1/T \).
+<img width="327" height="244" alt="image" src="https://github.com/user-attachments/assets/8bd45bd9-7285-4939-bc77-01171273980e" />
+
 
 
       
